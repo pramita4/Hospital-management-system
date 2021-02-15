@@ -1,3 +1,2 @@
 # Hospital-management-system
-This is only the front-end
-It is responsive.
+This is the front-end of hospital management system which is responsive as well.
